@@ -97,7 +97,7 @@ Libraries: Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, XGBoost, Imbalanced
 
 🚀 How to Run
 # Clone this repository
-git clone https://github.com/your-username/Credit-Card-Fraud-Detection.git
+git clone https://github.com/yamuna44/Credit-Card-Fraud-Detection.git
 
 # Navigate to project folder
 cd Credit-Card-Fraud-Detection
