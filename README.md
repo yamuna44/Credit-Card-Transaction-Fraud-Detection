@@ -68,12 +68,14 @@ Support Vector Machine (SVM)
 ✅ Class balancing techniques such as SMOTE (Synthetic Minority Oversampling Technique) were applied to handle imbalanced data.
 
 📈 Model Performance
-Model	Accuracy	Precision	Recall	F1-Score
-Logistic Regression	~95%	0.92	0.88	0.90
-Decision Tree	~94%	0.90	0.87	0.88
-Random Forest	99%	0.98	0.97	0.97
-XGBoost	99%	0.98	0.97	0.97
-SVM	~97%	0.95	0.91	0.93
+| Model               | Accuracy | Precision | Recall   | F1-Score |
+| ------------------- | -------- | --------- | -------- | -------- |
+| Logistic Regression | \~95%    | 0.92      | 0.88     | 0.90     |
+| Decision Tree       | \~94%    | 0.90      | 0.87     | 0.88     |
+| Random Forest       | **99%**  | **0.98**  | **0.97** | **0.97** |
+| XGBoost             | **99%**  | **0.98**  | **0.97** | **0.97** |
+| SVM                 | \~97%    | 0.95      | 0.91     | 0.93     |
+
 
 🚀 Best Models: Random Forest & XGBoost (achieved highest accuracy & F1-score).
 
