@@ -115,6 +115,5 @@ Implement feature engineering to improve recall for fraud detection.
 
 👤 Author
 
-Your Name
-🔗 LinkedIn
- | GitHub
+Yamuna S H
+🔗 LinkedIn | GitHub
