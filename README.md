@@ -1,9 +1,6 @@
+<img width="950" height="450" alt="Gemini_Generated_Image_zac02ezac02ezac0" src="https://github.com/user-attachments/assets/ba8a6690-bdb5-462b-850d-6bc638ce16a9" />
+
 🏦 Credit Card Transaction Fraud Detection
-
-
-
-
-
 
 📌 Project Overview
 
